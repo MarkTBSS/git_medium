@@ -1,4 +1,4 @@
-function loveAllAround() {
+function loveNaJa() {
     document.getElementById("show_1").innerHTML = 
-    "Love All Around";
+    "Love Na Ja";
 }
